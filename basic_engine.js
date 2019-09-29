@@ -15,6 +15,9 @@ bgsound.play();
 //setting up some graphics...
 
 
+// Set graphics here...
+
+
 
 // Basic object in our environment...
 rectangle = {
