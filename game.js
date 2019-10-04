@@ -9,7 +9,7 @@ context.canvas.width = 1080;
 
 //setting up some music...
 var bgsound = new Audio();
-bgsound.src = "sound.mp3";
+bgsound.src = "./sound.mp3";
 bgsound.play();
 
 //setting up some graphics...
